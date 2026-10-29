@@ -1,29 +1,33 @@
-# Welcome to your Lovable project
+# Portfólio — José Gabriel Mendes
 
-This project was built with [Lovable](https://lovable.dev).
+Portfólio pessoal de **José Gabriel da Silva Mendes**, desenvolvedor backend júnior com foco em **Java/Spring Boot** e **IA aplicada** (RAG, LangChain, microsserviços).
 
-## Build with Lovable
+Site: [gmndes-portfolio.vercel.app](https://gmndes-portfolio.vercel.app)
 
-Open your project in the [Lovable editor](https://lovable.dev) and keep building.
+## Momento atual
 
-- **Ship faster**: describe what you want to build and Lovable handles the code.
-- **Stay in sync**: connect the project to GitHub and every change made in Lovable is committed straight to your repository.
-- **Full ownership**: this code is yours. Push to your repository and your changes sync back into Lovable, ready for your next prompt.
+- Estudante de Ciência da Computação (UnP)
+- Analista de Suporte / TI júnior (Super MegaVendas)
+- Buscando primeira vaga como **Desenvolvedor Backend Júnior** ou **Engenheiro de IA Júnior**
+- Projeto em destaque: Assistente Corporativo RAG (Java + Python, RabbitMQ, ChromaDB, Groq)
 
-## Development
+## Stack do site
 
-Prefer working locally? You need Node.js and npm — [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating).
+- TanStack Start / React / TypeScript
+- Tailwind CSS
+- i18n: Português, English, Español
 
-```sh
-git clone <this-repository-url>
-cd <repository-name>
-npm i
+## Desenvolvimento local
+
+```bash
+npm i   # ou bun install
 npm run dev
 ```
 
-## Built with
+## Conteúdo
 
-- TanStack Start
-- TypeScript
-- React
-- Tailwind CSS
+Textos e projetos em:
+
+- `src/i18n/translations.ts`
+- `src/data/projects.ts`
+- `src/components/portfolio/Portfolio.tsx`
